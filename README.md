@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👨‍💻 Banele Innocent Monamudi
 
-<!--
-**BaneleInnocent/BaneleInnocent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## IT Support Technician | Junior Network Engineer | CCNA
 
-Here are some ideas to get you started:
+📍 Brakpan, Gauteng, South Africa  
+📧 monamudi.banele9@gmail.com  
+📞 063 554 5405  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 About Me
+I am an IT Support Technician and Junior Network Engineer with hands-on experience in desktop support, networking, Active Directory administration, and infrastructure deployment.
+
+I specialize in:
+- IT Support & Troubleshooting
+- Network Configuration
+- Cisco Networking
+- Active Directory Administration
+- Cybersecurity Fundamentals
+
+---
+
+## 🧰 Technical Skills
+- Windows Administration
+- Active Directory
+- TCP/IP, DNS, DHCP
+- Router & Switch Configuration
+- LAN/WAN Networking
+- Structured Cabling
+- Microsoft 365 Support
+- Network Troubleshooting
+
+---
+
+## 💻 Projects
+
+### 📡 Campus Network Infrastructure Upgrade
+- Installed switches supporting 60+ workstations
+- Structured cabling deployment
+- Network testing & configuration
+
+### 🔐 Secure Academic Network Implementation
+- Designed secure LAN & WiFi
+- Implemented ACLs & firewall rules
+- Simulated using Cisco Packet Tracer
+
+---
+
+## 📂 Lab Projects
+✔ IT Support Labs  
+✔ Networking Labs  
+✔ Active Directory Lab  
+✔ Cybersecurity Practice Labs  
+
+---
+
+## 🎓 Certifications
+- Cisco Introduction to Networks
+- Cisco IT Essentials
+- Introduction to Cybersecurity
+
+---
+
+## 🚀 Career Goal
+To grow into a Network Engineer / Cybersecurity Specialist role while contributing strong IT support and infrastructure skills.
+
