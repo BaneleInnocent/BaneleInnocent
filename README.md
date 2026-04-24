@@ -40,6 +40,8 @@ I specialize in:
 - Cisco IT Essentials
 - https://github.com/BaneleInnocent/Cisco-IT-Essentials
 - Introduction to Cybersecurity
+- Introduction to Cybersecurity
+  
 ---
 Banele Innocent Monamudi CV
 -
