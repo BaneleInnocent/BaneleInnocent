@@ -1,7 +1,7 @@
 # Hi, I'm Innocent!
-# 👨‍💻 Banele Innocent Monamudi
+# 👨‍💻 IT Support Technician | Junior Network Engineer | CCNA
 
-## IT Support Technician | Junior Network Engineer | CCNA
+## 
 
 📍 Brakpan, Gauteng, South Africa  
 📧 monamudi.banele9@gmail.com  
