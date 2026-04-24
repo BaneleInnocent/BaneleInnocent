@@ -1,9 +1,5 @@
 # Hi, I'm Innocent!
-# 👨‍💻 IT Support and Junior Network Technician (CCNA) with hands-on experience delivering first- and second
-line support, endpoint administration, and network troubleshooting in academic and technical 
-environments. Skilled in Active Directory, LAN/Wi-Fi monitoring, backup verification, systems support, and 
-incident escalation. Proven ability to manage IT assets, documentation, structured cabling, and switching 
-tasks. Motivated to contribute to hybrid desktop, systems, and junior network operations
+# 👨‍💻 IT Support Technician and Junior Network Engineer (CCNA)
 
 ## 
 
