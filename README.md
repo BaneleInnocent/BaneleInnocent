@@ -25,9 +25,9 @@ I specialize in:
 
 ### 🔐 Secure Academic Network Implementation
 
-### HTML Website Project 
+### 🌐 HTML Website Project 
 
-### Programming Projects
+### 💻 Programming Projects
 
 ---
 
