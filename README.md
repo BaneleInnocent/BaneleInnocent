@@ -21,7 +21,7 @@ I specialize in:
 ## 💻 Projects
 
 ### 📡 Campus Network Infrastructure Upgrade
-
+- https://github.com/BaneleInnocent/-Campus-Network-Infrastructure-Upgrade
 
 ### 🔐 Secure Academic Network Implementation
 
