@@ -35,7 +35,8 @@ I specialize in:
 ---
 
 ## 🎓 Certifications
-- Cisco Introduction to Networks
+- CCNA Introduction to Networks
+- https://github.com/BaneleInnocent/Cisco-Introduction-to-Networks
 - Cisco IT Essentials
 - Introduction to Cybersecurity
 ---
