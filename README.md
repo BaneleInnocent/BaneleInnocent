@@ -38,6 +38,7 @@ I specialize in:
 - CCNA Introduction to Networks
 - https://github.com/BaneleInnocent/Cisco-Introduction-to-Networks
 - Cisco IT Essentials
+- https://github.com/BaneleInnocent/Cisco-IT-Essentials
 - Introduction to Cybersecurity
 ---
 Banele Innocent Monamudi CV
